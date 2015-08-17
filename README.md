@@ -1,5 +1,6 @@
 # W207 Final Project
-## MIDS -- Summer semester 2015
+
+MIDS - Summer semester 2015
 
 * **Juanjo Carin**
 * **Tuhin Mahmud**
