@@ -28,4 +28,6 @@ Finally we ensembled the results of the best 4 models (**kNN**, **AdaBoost**, **
 
 Nonetheless, the predictions were not as accurate for the test set as they had been for the dev set we created from the training set, because the available data we had to train our models was quite different from the data we had to predict (the former was not a representative sample of the latter, or vice versa).
 
+But still we scored a 79.513% accuracy in the test after submitting to Kaggle, putting us in the 205th position if the competition was still open.
+
 
