@@ -8,6 +8,10 @@ MIDS - Summer semester 2015
 
 **Final version**: https://github.com/juanjocarin/W207-final-project/blob/master/W207-Carin_Mahmud_Sakhamuri.ipynb
 
+[Predictions for the test set submitted to Kaggle](https://github.com/juanjocarin/W207-final-project/blob/master/Forest/test_labeled.csv)
+
+[Presentation](https://docs.google.com/presentation/d/1Apk9JW_TBPbLmRxe0wNuiAUOZle4eu09Er-VbvTrwCs/edit?usp=sharing)
+
 Kaggle competition hosted at https://www.kaggle.com/c/forest-cover-type-prediction
 
 We used the most typical classifiers that we covered in the course, with the exception of **Neural Networks** (week 7). These are:
